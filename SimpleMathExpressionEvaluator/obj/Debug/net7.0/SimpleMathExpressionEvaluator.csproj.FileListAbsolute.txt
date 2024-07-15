@@ -1,0 +1,15 @@
+F:\C#\SimpleMathExpressionEvaluator\bin\Debug\net7.0\SimpleMathExpressionEvaluator.exe
+F:\C#\SimpleMathExpressionEvaluator\bin\Debug\net7.0\SimpleMathExpressionEvaluator.deps.json
+F:\C#\SimpleMathExpressionEvaluator\bin\Debug\net7.0\SimpleMathExpressionEvaluator.runtimeconfig.json
+F:\C#\SimpleMathExpressionEvaluator\bin\Debug\net7.0\SimpleMathExpressionEvaluator.dll
+F:\C#\SimpleMathExpressionEvaluator\bin\Debug\net7.0\SimpleMathExpressionEvaluator.pdb
+F:\C#\SimpleMathExpressionEvaluator\obj\Debug\net7.0\SimpleMathExpressionEvaluator.csproj.AssemblyReference.cache
+F:\C#\SimpleMathExpressionEvaluator\obj\Debug\net7.0\SimpleMathExpressionEvaluator.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\SimpleMathExpressionEvaluator\obj\Debug\net7.0\SimpleMathExpressionEvaluator.AssemblyInfoInputs.cache
+F:\C#\SimpleMathExpressionEvaluator\obj\Debug\net7.0\SimpleMathExpressionEvaluator.AssemblyInfo.cs
+F:\C#\SimpleMathExpressionEvaluator\obj\Debug\net7.0\SimpleMathExpressionEvaluator.csproj.CoreCompileInputs.cache
+F:\C#\SimpleMathExpressionEvaluator\obj\Debug\net7.0\SimpleMathExpressionEvaluator.dll
+F:\C#\SimpleMathExpressionEvaluator\obj\Debug\net7.0\refint\SimpleMathExpressionEvaluator.dll
+F:\C#\SimpleMathExpressionEvaluator\obj\Debug\net7.0\SimpleMathExpressionEvaluator.pdb
+F:\C#\SimpleMathExpressionEvaluator\obj\Debug\net7.0\SimpleMathExpressionEvaluator.genruntimeconfig.cache
+F:\C#\SimpleMathExpressionEvaluator\obj\Debug\net7.0\ref\SimpleMathExpressionEvaluator.dll
